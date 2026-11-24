@@ -46,7 +46,7 @@ Os conteúdos serão atualizados progressivamente, conforme a realização das a
 
 ## 👨‍💻 Contato
 
-- **GitHub:** [giovanni-demarchi](https://github.com/david-dallagnol)
+- **GitHub:** [David Dall Agnol](https://github.com/david-dallagnol)
 - **E-mail:** muralha3654@gmail.com
 
 ---
