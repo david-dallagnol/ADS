@@ -1,68 +1,74 @@
-# 📘 ADS | 1º Semestre
+# 🎓 Análise e Desenvolvimento de Sistemas — 1º Semestre
 
-## 🎓 Sobre o semestre
+Repositório dedicado à organização dos estudos, atividades, exercícios e projetos desenvolvidos durante o primeiro semestre do curso de **Análise e Desenvolvimento de Sistemas (ADS)** na FATEC Lins – Prof. Antonio Seabra.
 
-Este diretório reúne as atividades, exercícios, documentações e projetos desenvolvidos durante o **1º semestre do curso de Análise e Desenvolvimento de Sistemas (ADS)** da **FATEC Lins – Prof. Antonio Seabra**, no segundo semestre de 2026.
+## 📚 Sobre o semestre
 
-O objetivo é organizar os materiais acadêmicos e documentar a evolução dos conhecimentos adquiridos ao longo das disciplinas.
+O primeiro semestre tem como objetivo construir a base de conhecimentos necessária para a formação de um profissional da área de Tecnologia da Informação.
 
-## 📚 Disciplinas e projetos
+Durante esse período, são desenvolvidos conhecimentos fundamentais sobre lógica de programação, desenvolvimento de software, análise de sistemas e resolução de problemas utilizando tecnologia.
 
-### 💻 Algoritmos e Lógica de Programação
+## 📖 Disciplinas
 
-Introdução ao desenvolvimento de algoritmos, raciocínio lógico e fundamentos de programação.
+### 1. Algoritmos e Lógica de Programação
+Estudo dos fundamentos da programação, raciocínio lógico, algoritmos, estruturas de decisão, repetição e resolução de problemas computacionais.
 
-**Principais conteúdos:**
-- Variáveis, constantes e tipos de dados
-- Operadores aritméticos, relacionais e lógicos
-- Estruturas condicionais (`if`, `else` e `switch`)
-- Estruturas de repetição
-- Desenvolvimento de algoritmos em VisualG
-- Implementação de soluções em linguagem C
+### 2. Engenharia de Software I
+Introdução aos conceitos de engenharia de software, processos de desenvolvimento, levantamento de requisitos, documentação, planejamento e organização de projetos.
 
+### 3. Projeto Integrador ADS I
+Desenvolvimento de um projeto prático que integra os conhecimentos adquiridos nas disciplinas do semestre.
 
+**Projeto:** Sistema Web de Controle e Gestão de Academia.
 
-### 🛠️ Engenharia de Software I
+O objetivo é desenvolver uma solução tecnológica voltada à organização e ao gerenciamento das atividades de uma academia.
 
-Estudo dos conceitos fundamentais da Engenharia de Software, com foco na análise, especificação e documentação de sistemas.
+## 🛠️ Conhecimentos desenvolvidos
 
-**Principais conteúdos:**
-- Introdução à Engenharia de Software
-- Levantamento e análise de requisitos
-- Requisitos funcionais e não funcionais
-- Documento de visão e escopo
-- Modelagem e documentação de sistemas
+Ao longo do semestre, o foco está no desenvolvimento das seguintes competências:
 
+- Raciocínio lógico e pensamento computacional.
+- Fundamentos de algoritmos e programação.
+- Análise e levantamento de requisitos.
+- Introdução à engenharia de software.
+- Planejamento e documentação de projetos.
+- Desenvolvimento de soluções computacionais.
+- Organização de código e utilização do GitHub.
 
+## 📂 Organização do repositório
 
-### 🚀 Projeto Integrador ADS I
+Cada disciplina possui seu próprio diretório, destinado à organização de materiais de estudo, exercícios, trabalhos e projetos.
 
-Aplicação integrada dos conhecimentos adquiridos durante o semestre por meio do planejamento de um **Sistema Web para Gestão de Academia**.
+```text
+ADS 1 SEM/
+│
+├── README.md
+│
+├── Algoritmos e Lógica de Programação/
+│
+├── Engenharia de Software I/
+│
+└── Projeto Integrador ADS I/
+```
 
-O projeto envolve pesquisa, análise de soluções existentes, levantamento de requisitos, definição de escopo e elaboração de documentação técnica.
+## 🎯 Objetivo deste repositório
 
+Registrar minha evolução acadêmica e prática durante o primeiro semestre da graduação, mantendo organizados os conhecimentos adquiridos, os exercícios realizados e os projetos desenvolvidos.
 
+Este repositório também representa o início da construção do meu portfólio na área de desenvolvimento de software.
 
-## 🎯 Objetivos de aprendizagem
+## 👨‍💻 Estudante
 
-- Desenvolver raciocínio lógico e capacidade de resolução de problemas.
-- Compreender os fundamentos do desenvolvimento de software.
-- Aplicar conceitos de Engenharia de Software em situações práticas.
-- Desenvolver habilidades de documentação técnica.
-- Exercitar organização, colaboração e versionamento de projetos.
+**David Dall Agnol**
 
-## 📝 Observações
+🎓 Análise e Desenvolvimento de Sistemas  
+🏫 FATEC Lins – Prof. Antonio Seabra  
+📅 Graduação iniciada em 2026  
+📌 Previsão de conclusão: julho de 2029
 
-Os arquivos deste diretório possuem finalidade acadêmica e são organizados conforme o desenvolvimento das atividades ao longo do semestre.
+**GitHub:** [@david-dallagnol](https://github.com/david-dallagnol)
 
 ---
 
-**Instituição:** FATEC Lins – Prof. Antonio Seabra
-
-**Curso:** Análise e Desenvolvimento de Sistemas
-
-**Período:** 1º semestre – 2026/2
-
-**Acadêmico:** Giovanni Alfieri Demarchi
-
-[⬅️ Voltar ao repositório principal](../)
+⭐ Repositório acadêmico em constante evolução.  
+*Aprendendo, desenvolvendo e construindo conhecimento em tecnologia.*
