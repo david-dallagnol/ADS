@@ -20,13 +20,13 @@ Os conteúdos estão organizados por semestre e disciplina, facilitando a consul
 
 ### 📘 1º semestre
 
-[**Acessar conteúdos do 1º semestre**](./ADS-1-.Semestre/)
+[**Acessar conteúdos do 1º semestre**](https://github.com/david-dallagnol/ADS/tree/main/ADS%201%20SEM)
 
 | Disciplina / Projeto | Descrição |
 |---|---|
-| [Algoritmos e Lógica de Programação](./ADS-1-.Semestre/Algoritmos-L%C3%B3gica-Programa%C3%A7%C3%A3o/) | Fundamentos de programação e resolução de problemas |
-| [Engenharia de Software I](./ADS-1-.Semestre/Engenharia-Software-I/) | Requisitos, documentação e desenvolvimento de sistemas |
-| [Projeto Integrador ADS I](./ADS-1-.Semestre/Projeto-Integrador-ADS-I/) | Projeto acadêmico de um sistema web para gestão de academia |
+| [Algoritmos e Lógica de Programação]([./ADS-1-.Semestre/Algoritmos-L%C3%B3gica-Programa%C3%A7%C3%A3o/](https://github.com/david-dallagnol/ADS/tree/main/ADS%201%20SEM/Algoritmo%20e%20Logica%20de%20Programação)) | Fundamentos de programação e resolução de problemas |
+| [Engenharia de Software I]([./ADS-1-.Semestre/Engenharia-Software-I/](https://github.com/david-dallagnol/ADS/tree/main/ADS%201%20SEM/Engenharia%20de%20Software%201)) | Requisitos, documentação e desenvolvimento de sistemas |
+| [Projeto Integrador ADS I]([./ADS-1-.Semestre/Projeto-Integrador-ADS-I/](https://github.com/david-dallagnol/ADS/tree/main/ADS%201%20SEM/Projeto%20Integrador%201)) | Projeto acadêmico de um sistema web para gestão de academia |
 
 ## 💻 Conhecimentos em desenvolvimento
 
