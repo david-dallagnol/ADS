@@ -20,7 +20,7 @@ Introdução ao desenvolvimento de algoritmos, raciocínio lógico e fundamentos
 - Desenvolvimento de algoritmos em VisualG
 - Implementação de soluções em linguagem C
 
-📂 [Acessar disciplina](./Algoritmos-L%C3%B3gica-Programa%C3%A7%C3%A3o/)
+
 
 ### 🛠️ Engenharia de Software I
 
@@ -33,7 +33,7 @@ Estudo dos conceitos fundamentais da Engenharia de Software, com foco na anális
 - Documento de visão e escopo
 - Modelagem e documentação de sistemas
 
-📂 [Acessar disciplina](./Engenharia-Software-I/)
+
 
 ### 🚀 Projeto Integrador ADS I
 
@@ -41,7 +41,7 @@ Aplicação integrada dos conhecimentos adquiridos durante o semestre por meio d
 
 O projeto envolve pesquisa, análise de soluções existentes, levantamento de requisitos, definição de escopo e elaboração de documentação técnica.
 
-📂 [Acessar projeto](./Projeto-Integrador-ADS-I/)
+
 
 ## 🎯 Objetivos de aprendizagem
 
