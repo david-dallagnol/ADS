@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu repositório acadêmico!
 
-Sou **Giovanni Alfieri Demarchi**, formado em Engenharia Elétrica e estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Faculdade de Tecnologia de Lins (FATEC Lins – Prof. Antonio Seabra)**.
+Sou **David Dall Agnol**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Faculdade de Tecnologia de Lins (FATEC Lins – Prof. Antonio Seabra)**.
 
 Este repositório reúne exercícios, atividades, documentações e projetos desenvolvidos durante minha graduação, registrando minha evolução acadêmica e prática na área de Tecnologia da Informação.
 
